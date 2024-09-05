@@ -1,4 +1,4 @@
-# Heart Disease Prediction Project
+# Heart Disease Prediction Project Using Machine learning
 
 ## Heart Disease Prediction using Logistic Regression
 
